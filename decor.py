@@ -3,4 +3,4 @@ def print_func(func):
         print(func(*args))
     return wrapper
 
-12345
+sho za magic
